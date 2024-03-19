@@ -1,0 +1,1 @@
+This is a beginner intro into CRUD structure of the backend environment of a project named Amadeus. In this program, an API for a flight search app is created and presented to the customers figuratively. This project was done as an interview exam project.
